@@ -3,6 +3,7 @@ v0.0.3
 +added Brato idle animations
 +fixed collisions in bedroom
 +added all transitions
++added intro scene
 
 Next version - 
 -dialogue system
