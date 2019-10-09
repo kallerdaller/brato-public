@@ -1,4 +1,10 @@
-v0.0.2
-+ 8 way direction
-+ new sprites
-- old sprites
+v0.0.3
++added all Brato house rooms
++added Brato idle animations
++fixed collisions in bedroom
++added all transitions
+
+Next version - 
+-dialogue system
+-fix bug on entering rooms to the left
+-added attic turn light on/off
