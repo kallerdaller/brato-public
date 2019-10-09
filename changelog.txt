@@ -1,9 +1,7 @@
-v0.0.3
-+added all Brato house rooms
-+added Brato idle animations
-+fixed collisions in bedroom
-+added all transitions
-+added intro scene
+v0.0.4
++flipped bedroom and bathroom
++updated attic collisions
++updated walk animation speed
 
 Next version - 
 -dialogue system
